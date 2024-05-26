@@ -1,0 +1,178 @@
+
+h2{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 1500px;
+}
+h2,ul,li,h3{
+    display: inline;
+}
+.navbar{
+    background-color: black;
+    color:white;
+    height: 50px;
+    padding: 20px;
+}
+ul{
+    margin-left: 25%;
+}
+li{
+    margin-left: 30px;
+}
+li:hover{
+    cursor: pointer;
+    color:burlywood;
+}
+.head h1{
+    margin:33px;
+    margin-top: 40px;
+}
+.head p{
+    width: 45%;
+    height:50%;
+    font-size: medium;
+    line-height: 1.6;
+    margin-left: 33px;
+    font-size: 19px;
+    display:inline-block;
+}
+.girl{
+    width:398px;
+    height: 398px;
+    display:inline-block;
+    position:absolute;
+    top:120px;
+    left:60%;
+}
+.logo{
+    width:50px;
+    height: 50px;
+    position: absolute;
+    display: flex;
+    left:33px;
+}
+.logo img{
+    margin:13px;
+}
+.bu{
+    position:absolute;
+    left:32px;
+    display: flex;
+}
+
+.zero{
+    margin:13px;
+    background-color:white;
+    padding:5px;
+    border-radius: 20px;
+}
+.sk{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 55px;
+    position: absolute;
+    right:0px;
+    border-radius: 10px;
+}
+.sk h1{
+    padding:5px;
+    margin:5px;
+}
+.lan{
+    display: flex;
+    flex-direction: column;
+}
+.one{
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 4px;
+    padding:5px;
+    margin:10px;
+    width: 80%;
+    position: relative;
+    left:35px;
+}
+.one p{
+    line-height: 1.4;
+}
+.two:hover{
+    background-color: black;
+    color:white;
+
+}
+.certificate{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 55px;
+    position: absolute;
+    left:0px;
+    border-radius: 10px;
+    text-align: right;
+    padding:10px;
+}
+.two{
+    border-color: black;
+    border-style: solid;
+    display:inline-block;
+    border-width: 2px;
+    padding-bottom: 10px;
+    position: relative;
+    left:32px;
+    padding:5px;
+    margin:10px;
+    width:300px;
+}
+.cer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.project{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 50px;
+    position: absolute;
+    right:0px;
+    border-radius: 10px;
+    text-align: left;
+    padding:5px;
+}
+.three{
+    border-color: black;
+    border-style: solid;
+    display:inline-block;
+    border-width: 2px;
+    position: relative;
+    left:32px;
+    width:300px;
+    padding:5px;
+    margin:10px;
+}
+.pro{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+}
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding:10px;
+    margin: 10px;
+}
+.resume
+{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width:58%;
+    padding: 0px;
+}
+
+

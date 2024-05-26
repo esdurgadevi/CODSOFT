@@ -1,0 +1,34 @@
+.btn{
+    padding:20px;
+    margin:10px;
+    font-size: 20px;
+}
+.frame{
+    background-color:bisque;
+    opacity: 1;
+    width: 100%;
+    height:50px;
+    text-align: right;
+    padding:5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border-style: solid;
+    font-size: 30px;
+}
+.outer{
+    background-color: black;
+    width:25%;
+    height: 60%;
+    padding:15px;
+    margin-top:35px;
+    border-radius: 7px;
+    border-style: solid;
+}
+.numbers{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    border-radius:7px;
+    border-style: solid;
+}
+
